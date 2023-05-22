@@ -1,6 +1,12 @@
 # アプリケーション名
  book-record
 
+# アプリケーションの概要
+ 読み終えた本の内容を記録できるようにする。
+
+# URL
+ https://book-record-zbm4.onrender.com/
+
 
 # テーブル設計
 
