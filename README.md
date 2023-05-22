@@ -53,3 +53,7 @@
 
 - belongs_to :user
 - belongs_to :book
+
+# 画面遷移
+
+[![Image from Gyazo](https://i.gyazo.com/95df1790d2aa5cd8c0428efebf5e2bb9.png)](https://gyazo.com/95df1790d2aa5cd8c0428efebf5e2bb9)
