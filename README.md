@@ -1,4 +1,5 @@
-# README
+# アプリケーション名
+ book-record
 
 
 # テーブル設計
