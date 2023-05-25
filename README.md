@@ -22,6 +22,9 @@
 
 # テーブル設計
 
+## ER図
+[![Image from Gyazo](https://i.gyazo.com/a41b9ec0d0d2e6abb4d98af74ec0d7b3.png)](https://gyazo.com/a41b9ec0d0d2e6abb4d98af74ec0d7b3)
+
 ## users テーブル
 
 | Column              | Type   | Options                   |
@@ -69,3 +72,8 @@
 # 画面遷移
 
 [![Image from Gyazo](https://i.gyazo.com/95df1790d2aa5cd8c0428efebf5e2bb9.png)](https://gyazo.com/95df1790d2aa5cd8c0428efebf5e2bb9)
+
+# 開発環境
+Ruby/Ruby on Rails/MySQL/Github/Visual Studio Code
+
+
