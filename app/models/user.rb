@@ -7,5 +7,5 @@ class User < ApplicationRecord
          validates :name,                 presence: true
 
          has_many :books, dependent: :destroy
-         has_many :comments
+         has_many :comments, dependent: :destroy
 end
