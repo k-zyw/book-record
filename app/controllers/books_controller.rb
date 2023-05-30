@@ -47,6 +47,10 @@ class BooksController < ApplicationController
     redirect_to action: 'index'
   end
 
+  def search
+    @books = Book.search(params[:keyword])
+  end
+
   private
   def book_params
     params.require(:book).permit(:image, :category_id, :title, :author, :description).merge(user_id: current_user.id)
