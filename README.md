@@ -8,7 +8,16 @@
  https://book-record-zbm4.onrender.com/
 
  # テスト用アカウント
+ ・テストメールアドレス1：bbb@bbb
+
+ ・パスワード1：bbbbbb
+
+ ・テストメールアドレス2：ccc@ccc
+
+ ・パスワード2：cccccc
+
  ・Basic認証ID:admin
+
  ・Basic認証パスワード:2222
 
 # 利用方法
